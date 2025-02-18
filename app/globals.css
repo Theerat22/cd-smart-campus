@@ -63,6 +63,13 @@ body {
   font-style: text;
 }
 
+@font-face {
+  font-family: 'Sukhumvit';
+  src: url('../public/Fonts/Chloe-Regular.otf') format('truetype');
+  font-weight: text;
+  font-style: text;
+}
+
 html {
   scroll-behavior: smooth;
 }
